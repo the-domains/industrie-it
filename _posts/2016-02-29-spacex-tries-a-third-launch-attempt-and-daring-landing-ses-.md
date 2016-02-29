@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T00:15:51.971Z'
-dateModified: '2016-02-29T00:15:22.764Z'
+datePublished: '2016-02-29T00:17:14.968Z'
+dateModified: '2016-02-29T00:16:01.147Z'
 title: SpaceX tries a third launch attempt and daring landing (SES-9)
 author: []
+sourcePath: _posts/2016-02-29-spacex-tries-a-third-launch-attempt-and-daring-landing-ses-.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-spacex-tries-a-third-launch-attempt-and-daring-landing-ses-.md
-published: true
 url: spacex-tries-a-third-launch-attempt-and-daring-landing-ses-/index.html
 _type: Article
 
