@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Industrie IT]]></title>
+        <description><![CDATA[Industrie IT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 00:17:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SpaceX tries a third launch attempt and daring landing (SES-9)]]></title>
+            <description><![CDATA[<article><h1>SpaceX tries a third launch attempt and daring landing (SES-9)</h1><p>With its new, more powerful variant of the Falcon 9 rocket, SpaceX is having to handle this super-cold, dense propellant more carefully, and one of the things it is trying to do is deliver the right amount of fuel just before launch. With near perfect weather conditions expected for launch today, look for that to be the main issue to watch as SpaceX counts down toward the 6:46pm ET opening of the launch window.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ee9e77-1796-4e5d-bd08-ef6d17f57a04.jpg"></article>]]></description>
+            <link>undefinedspacex-tries-a-third-launch-attempt-and-daring-landing-ses-/index.html</link>
+            <guid isPermaLink="false">7cb4b4a5-ffcb-499b-a32b-fae1e45c2ae2</guid>
+            <pubDate>Mon, 29 Feb 2016 00:15:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
